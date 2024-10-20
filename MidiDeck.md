@@ -1,0 +1,2 @@
+# MidiDeck
+Midiコンを使ってStreamDeckのようなものを実現できないかと作り始めたものです
